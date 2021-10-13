@@ -6,6 +6,10 @@
 * ### 🖌️ I like to customize and I have my own color pallet. You can check it out [DarkBlue Ice](https://github.com/DarkBlue-Ice/DarkBlue-Ice).
 * ### 📄 Sometimes I contribute to increase other projects:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+2. ❗️ Closed issue [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode/issues/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vscode](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode)
+3. ❗️ Closed issue [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-customdiscord/issues/2) in [DarkBlue-Ice/DarkBlue-Ice-for-customdiscord](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-customdiscord)
+4. ❗️ Opened issue [#2497](https://github.com/haiwen/seafile/issues/2497) in [haiwen/seafile](https://github.com/haiwen/seafile)
 <!--END_SECTION:activity-->
 
 ---

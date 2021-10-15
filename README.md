@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
-2. ❗️ Closed issue [#2](https://github.com/Dedsd/Bob-Ross-quotes-database/issues/2) in [Dedsd/Bob-Ross-quotes-database](https://github.com/Dedsd/Bob-Ross-quotes-database)
-3. 🗣 Commented on [#2](https://github.com/Dedsd/Bob-Ross-quotes-database/issues/2) in [Dedsd/Bob-Ross-quotes-database](https://github.com/Dedsd/Bob-Ross-quotes-database)
-4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. ❌ Closed PR [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/pull/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
+2. 🗣 Commented on [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/issues/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
+3. 🎉 Merged PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
+4. 💪 Opened PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
 <!--END_SECTION:activity-->
   
 </h4>

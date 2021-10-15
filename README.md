@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-2. ❗️ Closed issue [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode/issues/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vscode](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode)
-3. ❗️ Closed issue [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-customdiscord/issues/2) in [DarkBlue-Ice/DarkBlue-Ice-for-customdiscord](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-customdiscord)
-4. ❗️ Opened issue [#2497](https://github.com/haiwen/seafile/issues/2497) in [haiwen/seafile](https://github.com/haiwen/seafile)
+1. 🎉 Merged PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
+2. ❗️ Closed issue [#2](https://github.com/Dedsd/Bob-Ross-quotes-database/issues/2) in [Dedsd/Bob-Ross-quotes-database](https://github.com/Dedsd/Bob-Ross-quotes-database)
+3. 🗣 Commented on [#2](https://github.com/Dedsd/Bob-Ross-quotes-database/issues/2) in [Dedsd/Bob-Ross-quotes-database](https://github.com/Dedsd/Bob-Ross-quotes-database)
+4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 <!--END_SECTION:activity-->
   
 </h4>

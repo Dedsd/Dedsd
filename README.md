@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice/pull/1) in [DarkBlue-Ice/DarkBlue-Ice](https://github.com/DarkBlue-Ice/DarkBlue-Ice)
-2. ❌ Closed PR [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/pull/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
-3. 🗣 Commented on [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/issues/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
-4. 🎉 Merged PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
+1. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-vscode](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode)
+2. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice/pull/1) in [DarkBlue-Ice/DarkBlue-Ice](https://github.com/DarkBlue-Ice/DarkBlue-Ice)
+3. ❌ Closed PR [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/pull/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
+4. 🗣 Commented on [#1](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/issues/1) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
 <!--END_SECTION:activity-->
   
 </h4>

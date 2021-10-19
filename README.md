@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#626](https://github.com/notion-enhancer/notion-enhancer/issues/626) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-2. ❗️ Opened issue [#626](https://github.com/notion-enhancer/notion-enhancer/issues/626) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-3. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-vscode](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode)
-4. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice/pull/1) in [DarkBlue-Ice/DarkBlue-Ice](https://github.com/DarkBlue-Ice/DarkBlue-Ice)
+1. ❌ Closed PR [#2](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks/pull/2) in [Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks](https://github.com/Dedsd/Credit-risk-data-modelation-and-predictions-with-neural-networks)
+2. 🗣 Commented on [#626](https://github.com/notion-enhancer/notion-enhancer/issues/626) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+3. ❗️ Opened issue [#626](https://github.com/notion-enhancer/notion-enhancer/issues/626) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+4. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-vscode](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vscode)
 <!--END_SECTION:activity-->
   
 </h4>

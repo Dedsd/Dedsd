@@ -35,7 +35,7 @@
 
 ## Github statistics
 
-![cg](https://activity-graph.herokuapp.com/graph?username=Dedsd&hide_border=true&area=true&bg_color=2A2F3B&color=AEBBD2&line=C3D6F9&point=AEBBD2)
+![cg](https://contrigraph2.herokuapp.com/graph?username=Dedsd&hide_border=true&area=true&bg_color=2A2F3B&color=AEBBD2&line=C3D6F9&point=AEBBD2)
 
 | | |
 |--------|-------|

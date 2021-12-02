@@ -10,9 +10,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-2. ❗️ Opened issue [#137](https://github.com/Aliucord/Aliucord/issues/137) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
-3. 🗣 Commented on [#2497](https://github.com/haiwen/seafile/issues/2497) in [haiwen/seafile](https://github.com/haiwen/seafile)
-4. 🗣 Commented on [#310](https://github.com/yang991178/fluent-reader/issues/310) in [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader)
+2. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. ❗️ Opened issue [#137](https://github.com/Aliucord/Aliucord/issues/137) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+4. 🗣 Commented on [#2497](https://github.com/haiwen/seafile/issues/2497) in [haiwen/seafile](https://github.com/haiwen/seafile)
 <!--END_SECTION:activity-->
   
 </h4>

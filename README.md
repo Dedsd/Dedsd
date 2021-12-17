@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
-2. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
+2. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
 3. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-4. ❗️ Opened issue [#137](https://github.com/Aliucord/Aliucord/issues/137) in [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord)
+4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 <!--END_SECTION:activity-->
   
 </h4>

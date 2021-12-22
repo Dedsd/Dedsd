@@ -10,8 +10,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
-2. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
-3. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+2. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
+3. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
 4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 <!--END_SECTION:activity-->
   

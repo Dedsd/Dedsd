@@ -1,7 +1,7 @@
 <h2 align="center">Hi! I'm André! 👋</h2>
 
 ## About
-* ### 📘 I'm currently studying javascript and doing projects of data science and machine learning(with python).
+* ### 📘 I'm currently studying arduino and doing projects of data science and machine learning(with python).
 * ### 💻 I am a python programmer, so mostly of my codes are written in python.
 * ### 🖌️ I like to customize and I have my own color pallet. You can check it out [DarkBlue Ice](https://github.com/DarkBlue-Ice/DarkBlue-Ice).
 * ### 📄 Sometimes I contribute to increase other projects:

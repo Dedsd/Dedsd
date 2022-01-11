@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
+1. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
 2. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
-3. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
-4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
+4. ❗️ Opened issue [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
 <!--END_SECTION:activity-->
   
 </h4>

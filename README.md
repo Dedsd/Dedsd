@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. ❗️ Opened issue [#1](https://github.com/Mateus-Cavalcanti/Comment-Web-Org/issues/1) in [Mateus-Cavalcanti/Comment-Web-Org](https://github.com/Mateus-Cavalcanti/Comment-Web-Org)
 2. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-3. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
-4. 🗣 Commented on [#203](https://github.com/dwcoates/pygn-mode/issues/203) in [dwcoates/pygn-mode](https://github.com/dwcoates/pygn-mode)
+3. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+4. ❌ Closed PR [#3](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo/pull/3) in [DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-duckduckgo)
 <!--END_SECTION:activity-->
   
 </h4>

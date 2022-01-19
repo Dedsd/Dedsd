@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
-2. ❗️ Opened issue [#1](https://github.com/Mateus-Cavalcanti/Comment-Web-Org/issues/1) in [Mateus-Cavalcanti/Comment-Web-Org](https://github.com/Mateus-Cavalcanti/Comment-Web-Org)
-3. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-4. 🗣 Commented on [#7802](https://github.com/microsoft/vscode-jupyter/issues/7802) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. 🗣 Commented on [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
+2. 🗣 Commented on [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
+3. ❗️ Opened issue [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
+4. ❗️ Opened issue [#1](https://github.com/Mateus-Cavalcanti/Comment-Web-Org/issues/1) in [Mateus-Cavalcanti/Comment-Web-Org](https://github.com/Mateus-Cavalcanti/Comment-Web-Org)
 <!--END_SECTION:activity-->
   
 </h4>

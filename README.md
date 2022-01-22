@@ -9,9 +9,9 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
-2. ❗️ Opened issue [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
-3. 🗣 Commented on [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
+1. 🗣 Commented on [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
+2. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
+3. ❗️ Opened issue [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
 4. 🗣 Commented on [#715](https://github.com/notion-enhancer/desktop/issues/715) in [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop)
 <!--END_SECTION:activity-->
   

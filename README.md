@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
-2. 🗣 Commented on [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
-3. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
-4. ❗️ Opened issue [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
+1. 🗣 Commented on [#29296](https://github.com/nextcloud/server/issues/29296) in [nextcloud/server](https://github.com/nextcloud/server)
+2. 🎉 Merged PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
+3. 🗣 Commented on [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
+4. ❌ Closed PR [#1](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/1) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
 <!--END_SECTION:activity-->
   
 </h4>

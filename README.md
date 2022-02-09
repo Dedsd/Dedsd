@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
-2. ❗️ Opened issue [#1](https://github.com/araven/focalboard-docker/issues/1) in [araven/focalboard-docker](https://github.com/araven/focalboard-docker)
-3. 🗣 Commented on [#29296](https://github.com/nextcloud/server/issues/29296) in [nextcloud/server](https://github.com/nextcloud/server)
-4. 🎉 Merged PR [#2](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim/pull/2) in [DarkBlue-Ice/DarkBlue-Ice-for-vim](https://github.com/DarkBlue-Ice/DarkBlue-Ice-for-vim)
+1. 🗣 Commented on [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
+2. 🗣 Commented on [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
+3. ❗️ Opened issue [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
+4. ❗️ Opened issue [#1](https://github.com/araven/focalboard-docker/issues/1) in [araven/focalboard-docker](https://github.com/araven/focalboard-docker)
 <!--END_SECTION:activity-->
   
 </h4>

@@ -9,10 +9,10 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
-2. 🗣 Commented on [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
+1. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
+2. ❗️ Opened issue [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 3. 🗣 Commented on [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
-4. ❗️ Opened issue [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
+4. 🗣 Commented on [#21](https://github.com/go-vikunja/api/issues/21) in [go-vikunja/api](https://github.com/go-vikunja/api)
 <!--END_SECTION:activity-->
   
 </h4>

@@ -12,7 +12,7 @@
 1. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 2. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 3. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
-4. ❗️ Opened issue [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
+4. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 <!--END_SECTION:activity-->
   
 </h4>

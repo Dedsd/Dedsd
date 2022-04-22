@@ -9,8 +9,8 @@
 <h4>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
-2. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
+1. ❗️ Closed issue [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
+2. 🗣 Commented on [#283](https://github.com/nextcloud/previewgenerator/issues/283) in [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator)
 3. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 4. 🗣 Commented on [#2](https://github.com/go-vikunja/desktop/issues/2) in [go-vikunja/desktop](https://github.com/go-vikunja/desktop)
 <!--END_SECTION:activity-->
